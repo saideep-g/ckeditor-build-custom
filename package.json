@@ -4,6 +4,7 @@
   "description": "A custom CKEditor 5 build made by the CKEditor 5 online builder.",
   "version": "0.0.1",
   "license": "SEE LICENSE IN LICENSE.md",
+  "main": "./build/ckeditor.js",
   "private": true,
   "devDependencies": {
     "@ckeditor/ckeditor5-alignment": "^18.0.0",
